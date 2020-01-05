@@ -16,6 +16,40 @@ Maybe i have to use both and stop treating req parameters on the route.
 **Link to work:**
 [Today's commit](https://github.com/BeatrizHerculano/giveaway-api/commit/7542e44cc8b4959fddfec557d3aae2ced34d8aee) 
 
+
+### Day 2: 04 de janeiro de 2020
+**Progresso de Hoje**: Modifiquei a estrutura do projeto para usar controllers e business, acho que esse é o caminho certo, estudar a API do twitter me tomou muito tempo hoje, mas eu consegui implementar um codigo pra consumir ela. Acabei não commitando o codigo que eu fiz, mas eu consegui retornat um tweet da hashtag, porem estatico.
+
+**Pensamentos**: Ontem eu não fiz o desafio e estou chateada com isso. Vou me esforçar mais pra eu não perder mais dias. Hoje não foi tao produtivo mas a hora está cumprida. O problema foi que a api do twitter era mais complexa do que eu imaginei. Tentei criar minha implementação propia e não consegui, acabei optando por usar uma ja feita. Sobre os conceitos do solid, eu não prestei muita atenção sobre isso hoje.
+
+**Link do meu trabalho:**
+Não commitei - My bad
+
+**Today's Progress**:I changed the project structure to use controllers and business, i this this the right way. I spent to much time studding the Twitter's API, but i implemented the code to consume it. I didnt commit this code, but i am returning a commit from a hashtag but it is static.
+
+**Thoughts:** Yesterday i didn't code, i am bothered because of that. I will make the effort to not lose more days. Today wasn't too productive but the hour was paid. The problem was the Twitter's API is more complex then what i expected. I tried to code my own implementation to consume the API, but i ended up using a ready-to-use lib. I didn't think about the SOLID principles today. 
+
+**Link to work:**
+I didn't commit, my bad
+
+
+### Day 2: 05 de janeiro de 2020
+**Progresso de Hoje**: I terminei o trabalho de ontem, o modulo de Twiiter pra api de sorteios. Filtrando um tweet aleatorio de uma hashtag. Implementei variaveis de ambiente para as credenciais do twitter
+**Pensamentos**: Hoje eu conclui o trabalho iniciado ontem. Esse codigo ficou bom mas ainda pode melhorar e eu quero voltar nele com o SOLID em mente.
+
+**Link do meu trabalho:**
+[Trabalho commitado](https://github.com/BeatrizHerculano/giveaway-api/commit/2d2d51a33bf4f54fb956176cd9c61829f565ac2b)
+[Arrumei um campo de retorno](https://github.com/BeatrizHerculano/giveaway-api/commit/951cfa15ca6693e7f3995065b4e8b928b0ddaa01)
+[Arrumei a formatação de datas para o a busca de tweets](https://github.com/BeatrizHerculano/giveaway-api/commit/6c25607d224cf401bf474a0b0e35da32c386edaa)
+
+**Today's Progress**:I finished the Twitter module for the giveaway api. Sorting a random tweet form a hashtag. Implemented enviroment variables for the twitter credentials.
+
+**Thoughts:** Today i finish my work from yesterday. This code is good, but has lots of space to be better. I want to come back with the SOLID principles in focus.H
+
+**Link to work:**
+[Commited Work](https://github.com/BeatrizHerculano/giveaway-api/commit/2d2d51a33bf4f54fb956176cd9c61829f565ac2b)
+[Fixed a field of the return](https://github.com/BeatrizHerculano/giveaway-api/commit/951cfa15ca6693e7f3995065b4e8b928b0ddaa01)
+[Fixed the date formating mused to search the tweets](https://github.com/BeatrizHerculano/giveaway-api/commit/6c25607d224cf401bf474a0b0e35da32c386edaa)
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)-->
 
