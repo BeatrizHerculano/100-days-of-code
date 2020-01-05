@@ -33,7 +33,7 @@ Não commitei - My bad
 I didn't commit, my bad
 
 
-### Day 2: 05 de janeiro de 2020
+### Day 3: 05 de janeiro de 2020
 **Progresso de Hoje**: I terminei o trabalho de ontem, o modulo de Twiiter pra api de sorteios. Filtrando um tweet aleatorio de uma hashtag. Implementei variaveis de ambiente para as credenciais do twitter
 **Pensamentos**: Hoje eu conclui o trabalho iniciado ontem. Esse codigo ficou bom mas ainda pode melhorar e eu quero voltar nele com o SOLID em mente.
 
